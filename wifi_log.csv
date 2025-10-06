@@ -1,0 +1,98 @@
+ts,state,ssid,bssid,signal_pct,channel,radio_type,ping_gate_avg_ms,ping_gate_loss_pct,ping_remote_avg_ms,ping_remote_loss_pct
+2025-10-06T15:15:44.328671Z,disconnected,,,,,,,100,9,0
+2025-10-06T15:17:48.911279Z,disconnected,,,,,,0,0,11,0
+2025-10-06T15:18:05.289033Z,disconnected,,,,,,0,0,9,0
+2025-10-06T15:23:38.123621Z,disconnected,,,,,,0,0,9,0
+2025-10-06T15:28:57.243555Z,disconnected,,,,,,0,0,9,0
+2025-10-06T15:29:13.704104Z,disconnected,,,,,,0,0,9,0
+2025-10-06T15:29:30.124601Z,disconnected,,,,,,0,0,9,0
+2025-10-06T15:35:30.180642Z,disconnected,,,,,,0,0,9,0
+2025-10-06T16:38:04.516411Z,disconnected,,,,,,0,0,10,0
+2025-10-06T16:38:21.003080Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,11,0
+2025-10-06T16:38:26.403025Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,11,0
+2025-10-06T16:38:42.966518Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,9,0
+2025-10-06T16:38:59.461965Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,10,0
+2025-10-06T16:39:15.973933Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,9,0
+2025-10-06T16:39:32.532942Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,12,0
+2025-10-06T16:39:49.087731Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,9,0
+2025-10-06T16:40:05.594138Z,connected,Bozard Employee,,83%,149,802.11ac,0,0,9,0
+2025-10-06T17:04:43.967412Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:05:00.389752Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:05:16.805768Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:05:51.361535Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:06:07.780812Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:06:24.240803Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:06:40.724239Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:16:39.664940Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:16:49.300691Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:17:05.757790Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,10,0
+2025-10-06T17:17:22.275955Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:17:39.233587Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:17:55.771539Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:18:12.311536Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:18:28.833811Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,10,0
+2025-10-06T17:18:45.381972Z,connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0
+2025-10-06T17:19:01.925108Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:19:18.437437Z,connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0
+2025-10-06T17:30:54.086514Z,connected,Bozard Employee,,81%,149,802.11ac,1.0,0.0,9.0,0.0
+2025-10-06T17:31:10.496145Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,11.0,0.0
+2025-10-06T17:31:26.859209Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,11.0,0.0
+2025-10-06T17:31:43.226943Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:31:59.839174Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:32:16.212568Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T17:32:32.563851Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:32:48.928543Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:33:05.332883Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:40:57.179939Z,connected,Bozard Employee,,81%,149,802.11ac,1.0,0.0,10.0,0.0
+2025-10-06T17:41:13.623565Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:41:30.088526Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:42:40.851440Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:42:57.222152Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T17:43:13.591602Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:01:19.806213Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:01:36.315880Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:02:28.564879Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:02:44.972232Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:03:01.325554Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:03:17.676826Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:03:34.061744Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:03:50.423547Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:04:06.789610Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:05:29.218777Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:05:45.619766Z,connected,Bozard Employee,,81%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:06:01.962295Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:06:18.303939Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:06:34.650006Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:06:50.991969Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:07:07.337205Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:07:23.691938Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,10.0,0.0
+2025-10-06T18:07:40.030760Z,connected,Bozard Employee,,82%,149,802.11ac,2.0,0.0,10.0,0.0
+2025-10-06T18:07:56.396537Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,13.0,25.0
+2025-10-06T18:08:16.368078Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:08:32.731194Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,12.0,0.0
+2025-10-06T18:08:49.154476Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:09:05.515276Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,11.0,0.0
+2025-10-06T18:09:21.877498Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:09:38.241471Z,connected,Bozard Employee,,82%,149,802.11ac,0.0,0.0,9.0,0.0
+2025-10-06T18:49:10.367454+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,
+2025-10-06T18:49:26.832948+00:00,: connected,Bozard Employee,,82%,149,802.11ac,0,0,10,0,
+2025-10-06T18:50:01.858088+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,6.312695220891267
+2025-10-06T18:50:18.356955+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,11,0,7.67592942425034
+2025-10-06T18:50:34.849095+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,11,0,7.67592942425034
+2025-10-06T18:50:51.356148+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:51:07.864579+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:51:24.326180+00:00,: connected,Bozard Employee,,82%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:51:40.824902+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:51:57.339579+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:52:13.801947+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:52:30.336315+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:52:46.833176+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:53:03.268833+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,7.67592942425034
+2025-10-06T18:53:19.729576+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,6.7572846191027
+2025-10-06T18:53:36.202309+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,6.7572846191027
+2025-10-06T19:08:22.018794+00:00,: connected,Bozard Employee,,81%,149,802.11ac,0,0,9,0,
+2025-10-06T19:08:39.724067+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,
+2025-10-06T19:08:56.190309+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,
+2025-10-06T19:09:12.670096+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,6.764926800055446
+2025-10-06T19:09:29.161727+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,6.878066894931845
+2025-10-06T19:09:45.628769+00:00,: connected,Bozard Employee,,80%,149,802.11ac,0,0,9,0,6.878066894931845

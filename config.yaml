@@ -1,0 +1,55 @@
+log_dir: C:\Users\TyStephens\OneDrive - Bozard\Documents\wifianalysis\logs
+scan_interval: 10
+ping_targets:
+  gateway: null
+  remote: 8.8.8.8
+ping_count: 4
+log_retention_days: 14
+max_log_mb: 512
+appearance:
+  theme: dark
+  accent_color: '#0066cc'
+  font_size: 10
+dashboard_layout:
+  show_signal: true
+  show_latency: true
+  show_roams: true
+  show_throughput: true
+  show_charts: true
+thresholds:
+  signal_warn: 55
+  signal_fail: 35
+  loss_warn: 10
+  loss_fail: 20
+  latency_warn: 150
+  latency_fail: 300
+notifications:
+  enabled: true
+  signal_threshold: 35
+  loss_threshold: 20
+  latency_threshold: 200
+  channels:
+  - popup
+speed_test:
+  enabled: true
+  type: http
+  url: http://speedtest.tele2.net/1MB.zip
+  iperf3_server: ''
+  iperf3_port: 5201
+  duration: 10
+scheduled_diagnostics:
+  enabled: false
+  interval_hours: 12
+ping_target_remote: 8.8.8.8
+auto_detect_gateway: true
+manual_gateway: 10.18.46.2
+pcap_enabled: false
+pcap_rotate_MB: 50
+pcap_interface: ''
+tshark_path: C:\Program Files\Wireshark\tshark.exe
+keep_jsonl: true
+keep_csv: true
+rotation:
+  rotate_daily: true
+  keep_days: 14
+  max_folder_mb: 512
